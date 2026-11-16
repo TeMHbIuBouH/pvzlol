@@ -1,0 +1,21 @@
+# Target labels
+ libpng-src
+# Source files and their labels
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libpng-src
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libpng-src.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libpng-src-complete.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-build.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-configure.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-download.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-install.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-mkdir.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-patch_disconnected.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-update_disconnected.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/zlib-src-complete.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-build.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-configure.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-download.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-install.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-mkdir.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-patch_disconnected.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-update_disconnected.rule

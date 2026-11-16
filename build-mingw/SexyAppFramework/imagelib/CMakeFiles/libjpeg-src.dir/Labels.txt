@@ -1,0 +1,13 @@
+# Target labels
+ libjpeg-src
+# Source files and their labels
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libjpeg-src
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libjpeg-src.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libjpeg-src-complete.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-build.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-configure.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-download.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-install.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-mkdir.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-patch_disconnected.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-update_disconnected.rule

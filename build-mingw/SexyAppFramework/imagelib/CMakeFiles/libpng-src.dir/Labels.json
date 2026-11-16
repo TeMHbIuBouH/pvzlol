@@ -1,0 +1,67 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libpng-src"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libpng-src.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libpng-src-complete.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-build.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-configure.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-download.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-install.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-patch_disconnected.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libpng-src-prefix/src/libpng-src-stamp/libpng-src-update_disconnected.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/zlib-src-complete.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-build.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-configure.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-download.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-install.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-patch_disconnected.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libpng-src"
+		],
+		"name" : "libpng-src"
+	}
+}

@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_TOOLCHAIN_FILE:FILEPATH=/workspaces/pvzlol/re-plants-vs-zombies/toolchain.cmake;-DCMAKE_INSTALL_PREFIX=/workspaces/pvzlol/build-mingw/zlib;-DCMAKE_C_FLAGS= -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3;-Wno-dev;-GNinja;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

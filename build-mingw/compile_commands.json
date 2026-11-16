@@ -1,0 +1,836 @@
+[
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Board.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Board.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Board.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Board.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Challenge.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Challenge.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Challenge.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Challenge.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Coin.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Coin.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Coin.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Coin.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/CursorObject.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/CursorObject.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/CursorObject.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/CursorObject.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/CutScene.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/CutScene.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/CutScene.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/CutScene.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/GameObject.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/GameObject.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/GameObject.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/GameObject.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/GridItem.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/GridItem.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/GridItem.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/GridItem.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/LawnMower.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/LawnMower.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/LawnMower.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/LawnMower.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/MessageWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/MessageWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/MessageWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/MessageWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Plant.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Plant.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Plant.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Plant.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Projectile.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Projectile.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Projectile.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Projectile.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/SeedPacket.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/SeedPacket.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/SeedPacket.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/SeedPacket.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/ToolTipWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/ToolTipWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/ToolTipWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/ToolTipWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/ZenGarden.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/ZenGarden.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/ZenGarden.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/ZenGarden.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Zombie.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Zombie.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Zombie.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Zombie.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/LawnCommon.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/LawnCommon.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/LawnCommon.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/LawnCommon.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Resources.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Resources.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Resources.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Resources.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/DataSync.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/DataSync.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/DataSync.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/DataSync.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/Music.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/Music.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/Music.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/Music.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/PlayerInfo.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/PlayerInfo.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/PlayerInfo.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/PlayerInfo.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/PoolEffect.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/PoolEffect.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/PoolEffect.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/PoolEffect.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/PopDRMComm.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/PopDRMComm.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/PopDRMComm.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/PopDRMComm.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/ProfileMgr.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/ProfileMgr.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/ProfileMgr.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/ProfileMgr.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/ReanimationLawn.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/ReanimationLawn.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/ReanimationLawn.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/ReanimationLawn.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/SaveGame.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/SaveGame.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/SaveGame.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/SaveGame.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/TypingCheck.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/TypingCheck.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/System/TypingCheck.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/System/TypingCheck.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/AchievementsWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/AchievementsWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/AchievementsWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/AchievementsWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/Almanac.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/Almanac.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/Almanac.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/Almanac.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/AwardScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/AwardScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/AwardScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/AwardScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ChallengeScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ChallengeScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ChallengeScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ChallengeScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/CheatDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/CheatDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/CheatDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/CheatDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ContinueDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ContinueDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ContinueDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ContinueDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/CreditScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/CreditScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/CreditScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/CreditScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/GameButton.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/GameButton.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/GameButton.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/GameButton.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/GameSelector.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/GameSelector.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/GameSelector.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/GameSelector.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ImitaterDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ImitaterDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ImitaterDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ImitaterDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/LawnDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/LawnDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/LawnDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/LawnDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/NewOptionsDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/NewOptionsDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/NewOptionsDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/NewOptionsDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/NewUserDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/NewUserDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/NewUserDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/NewUserDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/SeedChooserScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/SeedChooserScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/SeedChooserScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/SeedChooserScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/StoreScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/StoreScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/StoreScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/StoreScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/TitleScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/TitleScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/TitleScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/TitleScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/UserDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/UserDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/UserDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/UserDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarColors.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarColors.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarColors.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarColors.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarItems.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarItems.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarItems.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarItems.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarScreen.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarScreen.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarScreen.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarScreen.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarTOSDialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarTOSDialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Lawn/Widget/ZombatarTOSDialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Lawn/Widget/ZombatarTOSDialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Definition.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Definition.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Definition.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Definition.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodCommon.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodCommon.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodCommon.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodCommon.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodDebug.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodDebug.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodDebug.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodDebug.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodFoley.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodFoley.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodFoley.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodFoley.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodList.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodList.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodList.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodList.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodStringFile.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodStringFile.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodStringFile.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodStringFile.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Attachment.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Attachment.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Attachment.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Attachment.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/EffectSystem.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/EffectSystem.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/EffectSystem.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/EffectSystem.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/FilterEffect.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/FilterEffect.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/FilterEffect.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/FilterEffect.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/ReanimAtlas.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/ReanimAtlas.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/ReanimAtlas.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/ReanimAtlas.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Reanimator.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Reanimator.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Reanimator.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Reanimator.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodParticle.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodParticle.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/TodParticle.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/TodParticle.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Trail.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Trail.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/Sexy.TodLib/Trail.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/Sexy.TodLib/Trail.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Color.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Color.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Color.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Color.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/D3D8Helper.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/D3D8Helper.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/D3D8Helper.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/D3D8Helper.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/D3DInterface.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/D3DInterface.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/D3DInterface.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/D3DInterface.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/D3DTester.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/D3DTester.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/D3DTester.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/D3DTester.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/DDImage.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/DDImage.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/DDImage.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/DDImage.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/DDInterface.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/DDInterface.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/DDInterface.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/DDInterface.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Font.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Font.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Font.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Font.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Graphics.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Graphics.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Graphics.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Graphics.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Image.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Image.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Image.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Image.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/ImageFont.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/ImageFont.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/ImageFont.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/ImageFont.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/MemoryImage.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/MemoryImage.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/MemoryImage.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/MemoryImage.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/NativeDisplay.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/NativeDisplay.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/NativeDisplay.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/NativeDisplay.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Quantize.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Quantize.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/Quantize.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/Quantize.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/SharedImage.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/SharedImage.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/SharedImage.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/SharedImage.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/SWTri.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/SWTri.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/SWTri.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/SWTri.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/SysFont.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/SysFont.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/graphics/SysFont.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/graphics/SysFont.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/BassLoader.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/BassLoader.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/BassLoader.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/BassLoader.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/BassMusicInterface.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/BassMusicInterface.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/BassMusicInterface.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/BassMusicInterface.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/DSoundInstance.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/DSoundInstance.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/DSoundInstance.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/DSoundInstance.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/DSoundManager.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/DSoundManager.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/DSoundManager.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/DSoundManager.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModLoader.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModLoader.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModLoader.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModLoader.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModMusicInterface.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModMusicInterface.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModMusicInterface.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModMusicInterface.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModSoundInstance.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModSoundInstance.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModSoundInstance.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModSoundInstance.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModSoundManager.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModSoundManager.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/sound/FModSoundManager.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/sound/FModSoundManager.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ButtonWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ButtonWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ButtonWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ButtonWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Checkbox.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Checkbox.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Checkbox.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Checkbox.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Dialog.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Dialog.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Dialog.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Dialog.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/DialogButton.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/DialogButton.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/DialogButton.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/DialogButton.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/EditWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/EditWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/EditWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/EditWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/HyperlinkWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/HyperlinkWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/HyperlinkWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/HyperlinkWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Insets.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Insets.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Insets.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Insets.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ListWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ListWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ListWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ListWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ScrollbarWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ScrollbarWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ScrollbarWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ScrollbarWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ScrollbuttonWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ScrollbuttonWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/ScrollbuttonWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/ScrollbuttonWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Slider.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Slider.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Slider.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Slider.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/TextWidget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/TextWidget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/TextWidget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/TextWidget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Widget.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Widget.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/Widget.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/Widget.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/WidgetContainer.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/WidgetContainer.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/WidgetContainer.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/WidgetContainer.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/widget/WidgetManager.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/WidgetManager.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/widget/WidgetManager.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/widget/WidgetManager.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Buffer.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Buffer.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Buffer.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Buffer.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/CritSect.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/CritSect.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/CritSect.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/CritSect.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Debug.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Debug.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Debug.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Debug.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/DescParser.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/DescParser.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/DescParser.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/DescParser.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/DirectXErrorString.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/DirectXErrorString.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/DirectXErrorString.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/DirectXErrorString.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Flags.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Flags.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Flags.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Flags.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/HTTPTransfer.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/HTTPTransfer.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/HTTPTransfer.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/HTTPTransfer.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/KeyCodes.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/KeyCodes.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/KeyCodes.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/KeyCodes.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/ModVal.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/ModVal.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/ModVal.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/ModVal.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/MTRand.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/MTRand.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/MTRand.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/MTRand.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/PerfTimer.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/PerfTimer.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/PerfTimer.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/PerfTimer.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/PropertiesParser.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/PropertiesParser.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/PropertiesParser.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/PropertiesParser.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Ratio.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Ratio.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/Ratio.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/Ratio.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/ResourceManager.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/ResourceManager.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/ResourceManager.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/ResourceManager.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/SEHCatcher.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/SEHCatcher.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/SEHCatcher.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/SEHCatcher.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/SexyMatrix.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/SexyMatrix.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/SexyMatrix.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/SexyMatrix.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/misc/XMLParser.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/XMLParser.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/misc/XMLParser.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/misc/XMLParser.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/paklib/PakInterface.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/paklib/PakInterface.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/paklib/PakInterface.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/paklib/PakInterface.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/bitwise.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/bitwise.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/bitwise.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/bitwise.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/block.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/block.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/block.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/block.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/codebook.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/codebook.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/codebook.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/codebook.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/floor0.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/floor0.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/floor0.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/floor0.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/floor1.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/floor1.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/floor1.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/floor1.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/framing.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/framing.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/framing.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/framing.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/info.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/info.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/info.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/info.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/mapping0.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/mapping0.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/mapping0.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/mapping0.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/mdct.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/mdct.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/mdct.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/mdct.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/registry.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/registry.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/registry.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/registry.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/res012.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/res012.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/res012.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/res012.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/sharedbook.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/sharedbook.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/sharedbook.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/sharedbook.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/synthesis.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/synthesis.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/synthesis.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/synthesis.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/vorbisfile.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/vorbisfile.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/vorbisfile.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/vorbisfile.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -o SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/window.c.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/window.c",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/ogg/window.c",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/ogg/window.c.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/imagelib/ImageLib.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/imagelib/ImageLib.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/imagelib/ImageLib.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/imagelib/ImageLib.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/Common.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/Common.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/Common.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/Common.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/SexyApp.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/SexyApp.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/SexyApp.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/SexyApp.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/SexyAppBase.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/SexyAppBase.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/SexyAppBase.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/SexyAppBase.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/LawnApp.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/LawnApp.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/LawnApp.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/LawnApp.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "/usr/local/bin/x86_64-w64-mingw32-clang++ -D_DEBUG -D_LIB -D_MBCS -I/workspaces/pvzlol/build-mingw/include -I/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/.  -pthread -fuse-ld=lld -fms-extensions -march=native -fdiagnostics-color=always -O3 -Wall -Wextra -Werror -g -std=gnu++23 -o SexyAppFramework/CMakeFiles/LawnProject.dir/__/main.cpp.obj -c /workspaces/pvzlol/re-plants-vs-zombies/main.cpp",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/main.cpp",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/__/main.cpp.obj"
+},
+{
+  "directory": "/workspaces/pvzlol/build-mingw",
+  "command": "x86_64-w64-mingw32-windres -O coff -D_DEBUG -D_LIB -D_MBCS -I /workspaces/pvzlol/build-mingw/include -I /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/. /workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/LawnProject.rc SexyAppFramework/CMakeFiles/LawnProject.dir/LawnProject.rc.res",
+  "file": "/workspaces/pvzlol/re-plants-vs-zombies/SexyAppFramework/LawnProject.rc",
+  "output": "SexyAppFramework/CMakeFiles/LawnProject.dir/LawnProject.rc.res"
+}
+]

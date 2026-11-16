@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libjpeg-src"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libjpeg-src.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/libjpeg-src-complete.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-build.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-configure.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-download.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-install.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-mkdir.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-patch_disconnected.rule"
+		},
+		{
+			"file" : "/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/libjpeg-src-prefix/src/libjpeg-src-stamp/libjpeg-src-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libjpeg-src"
+		],
+		"name" : "libjpeg-src"
+	}
+}

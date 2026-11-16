@@ -1,0 +1,13 @@
+# Target labels
+ zlib-src
+# Source files and their labels
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/zlib-src
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/zlib-src.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/CMakeFiles/zlib-src-complete.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-build.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-configure.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-download.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-install.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-mkdir.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-patch_disconnected.rule
+/workspaces/pvzlol/build-mingw/SexyAppFramework/imagelib/zlib-src-prefix/src/zlib-src-stamp/zlib-src-update_disconnected.rule
